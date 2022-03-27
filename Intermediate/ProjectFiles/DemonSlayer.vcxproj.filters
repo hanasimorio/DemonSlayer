@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DemonSlayer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{807D6B4B-AE00-4E44-9EA4-091A7A1A0CBD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DemonSlayer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DemonSlayerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A7655A69-3C0B-4385-937E-D6BF44C90FB4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DemonSlayer">
+      <UniqueIdentifier>{BC9DCAB6-D565-4B8E-BCF6-90ADA2591F9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DemonSlayer\DemonSlayer.Build.cs">
+      <Filter>Source\DemonSlayer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DemonSlayer\DemonSlayer.cpp">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DemonSlayer\DemonSlayer.h">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DemonSlayer\DemonSlayerCharacter.cpp">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DemonSlayer\DemonSlayerCharacter.h">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DemonSlayer\DemonSlayerGameMode.cpp">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DemonSlayer\DemonSlayerGameMode.h">
+      <Filter>Source\DemonSlayer</Filter>
+    </ClInclude>
+    <Filter Include="Source\DemonSlayer\Private">
+      <UniqueIdentifier>{5C41AC0B-4D99-44D5-945F-641148C90132}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\DemonSlayer_GameMode.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\DungeonGenerate.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\GAS_AttributeSet.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\GA_GameplayAbility.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\GMMC_AbilityCost.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\MainPlayer.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DemonSlayer\Private\MapBox.cpp">
+      <Filter>Source\DemonSlayer\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DemonSlayer\Public">
+      <UniqueIdentifier>{677CCDF1-3474-44B8-A043-B5EE84EAAA0A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\DemonSlayer_GameMode.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\DungeonGenerate.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\GAS_AttributeSet.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\GA_GameplayAbility.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\GMMC_AbilityCost.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\MainPlayer.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DemonSlayer\Public\MapBox.h">
+      <Filter>Source\DemonSlayer\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

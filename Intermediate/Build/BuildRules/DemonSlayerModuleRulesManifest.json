@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealGame\\DemonSlayer\\Source\\DemonSlayer\\DemonSlayer.Build.cs",
+		"D:\\UnrealGame\\DemonSlayer\\Source\\DemonSlayer.Target.cs",
+		"D:\\UnrealGame\\DemonSlayer\\Source\\DemonSlayerEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

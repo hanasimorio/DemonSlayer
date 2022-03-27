@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DemonSlayer",
+			"Path": "D:\\UnrealGame\\DemonSlayer\\Source\\DemonSlayer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DemonSlayerEditor",
+			"Path": "D:\\UnrealGame\\DemonSlayer\\Source\\DemonSlayerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

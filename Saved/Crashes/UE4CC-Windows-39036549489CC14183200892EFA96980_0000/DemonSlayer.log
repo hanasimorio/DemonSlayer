@@ -1,0 +1,1407 @@
+﻿Log file open, 03/16/22 18:53:03
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DemonSlayer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254951
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.16-09.53.04:455][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.16-09.53.04:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:456][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:485][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.16-09.53.04:485][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.16-09.53.04:486][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.16-09.53.04:486][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.16-09.53.04:487][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.16-09.53.04:487][  0]LogHAL: Display: Platform has ~ 16 GB [17106616320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.16-09.53.04:487][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.16-09.53.04:487][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.16-09.53.04:487][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.16-09.53.04:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Scalability.ini]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.16-09.53.04:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Engine.ini]
+[2022.03.16-09.53.04:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealGame/DemonSlayer/Saved/Config/Windows/Editor.ini]
+[2022.03.16-09.53.04:489][  0]LogInit: Computer: DESKTOP-RFHJLQ4
+[2022.03.16-09.53.04:489][  0]LogInit: User: ramun
+[2022.03.16-09.53.04:489][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.16-09.53.04:489][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.16-09.53.04:489][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.16-09.53.04:489][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.16-09.53.04:489][  0]LogMemory: Process Physical Memory: 137.15 MB used, 137.15 MB peak
+[2022.03.16-09.53.04:489][  0]LogMemory: Process Virtual Memory: 120.48 MB used, 120.48 MB peak
+[2022.03.16-09.53.04:489][  0]LogMemory: Physical Memory: 9327.82 MB used,  6986.32 MB free, 16314.14 MB total
+[2022.03.16-09.53.04:489][  0]LogMemory: Virtual Memory: 134209816.00 MB used,  7912.59 MB free, 134217728.00 MB total
+[2022.03.16-09.53.04:499][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.16-09.53.04:546][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.16-09.53.04:546][  0]LogInit: Overriding language with editor language configuration option (ja).
+[2022.03.16-09.53.04:546][  0]LogInit: Using OS detected locale (ja-JP).
+[2022.03.16-09.53.04:649][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.16-09.53.04:689][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.16-09.53.04:701][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.16-09.53.04:701][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.16-09.53.04:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.16-09.53.04:863][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.16-09.53.04:863][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.16-09.53.04:863][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.16-09.53.05:006][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.03.16-09.53.05:006][  0]LogD3D11RHI:       5991/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.16-09.53.05:009][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.16-09.53.05:009][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.16-09.53.05:009][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.16-09.53.05:019][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.16-09.53.05:019][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.16-09.53.05:019][  0]LogWindows: EnumDisplayDevices:
+[2022.03.16-09.53.05:019][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.03.16-09.53.05:019][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.16-09.53.05:020][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.16-09.53.05:020][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.03.16-09.53.05:020][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.16-09.53.05:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.03.16-09.53.05:020][  0]LogD3D11RHI:   Driver Version: 461.92 (internal:27.21.14.6192, unified:461.92)
+[2022.03.16-09.53.05:020][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2022.03.16-09.53.05:020][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.03.16-09.53.05:121][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.16-09.53.05:121][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.16-09.53.05:121][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.16-09.53.05:142][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.16-09.53.05:144][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.16-09.53.05:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.16-09.53.05:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.16-09.53.05:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.16-09.53.05:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.16-09.53.05:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.16-09.53.05:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.16-09.53.05:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.16-09.53.05:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.16-09.53.05:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.16-09.53.05:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.16-09.53.05:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.16-09.53.05:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.16-09.53.05:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.16-09.53.05:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.16-09.53.05:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.16-09.53.05:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.16-09.53.05:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.16-09.53.05:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.16-09.53.05:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.16-09.53.05:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.16-09.53.05:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.16-09.53.05:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.16-09.53.05:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.16-09.53.05:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.16-09.53.05:714][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.16-09.53.05:789][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.16-09.53.05:789][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/UnrealGame/DemonSlayer/Intermediate/Shaders/WorkingDirectory/5840/).
+[2022.03.16-09.53.05:789][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramun/AppData/Local/Temp/UnrealShaderWorkingDir/0692E00A4ECB12FFFD9E88A5940849C7/'.
+[2022.03.16-09.53.05:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.16-09.53.05:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.16-09.53.06:607][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/ramun/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramun/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealGame/DemonSlayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealGame/DemonSlayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.16-09.53.06:659][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.16-09.53.06:672][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.16-09.53.06:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.16-09.53.06:673][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.16-09.53.06:681][  0]LogDerivedDataCache: Speed tests for C:/Users/ramun/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.16-09.53.06:681][  0]LogDerivedDataCache: Display: Performance to C:/Users/ramun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1055.26MBs, RandomWriteSpeed=128.74MBs. Assigned SpeedClass 'Local'
+[2022.03.16-09.53.06:682][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.16-09.53.06:682][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.16-09.53.06:682][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.16-09.53.06:736][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.16-09.53.06:737][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.16-09.53.06:761][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.03.16-09.53.07:016][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.16-09.53.07:017][  0]LogInit: Active device profile: [000001AA0332E100][000001AA02DFEA40 49] Windows
+[2022.03.16-09.53.07:017][  0]LogInit: Profiles: [000001AA0332E100][000001AA02DFEA40 49] Windows, [000001AA032F6100][000001AA02E06BC0 49] WindowsNoEditor, [000001AA0332FE00][000001AA02E0AD40 49] WindowsServer, [000001AA032F4400][000001AA040D6EC0 49] WindowsClient, [000001AA0332C400][000001AA040DB040 49] IOS, [000001AA032F6F00][000001AA040DF1C0 49] iPadAir, [000001AA0332EA00][000001AA040E3340 49] iPadAir2, [000001AA032A7900][000001AA02E035C0 49] IPadPro, [000001AA032A7A00][000001AA040E7600 49] iPadAir3, [000001AA0332D700][000001AA040EB740 49] iPadAir4, [000001AA032A6600][000001AA040EF880 49] iPadMini2, [000001AA0332F800][000001AA040F39C0 49] iPadMini3, [000001AA032A4F00][000001AA04137B40 49] iPadMini4, [000001AA0332CA00][000001AA0413BCC0 49] iPadMini5, [000001AA032DF300][000001AA041422C0 49] iPhone6, [000001AA032DF400][000001AA0413E300 49] iPodTouch6, [000001AA032A7700][000001AA0414A5C0 49] iPhone7, [000001AA032A7600][000001AA04146600 49] iPodTouch7, [000001AA032DE600][000001AA0414E780 49] iPhone5S, [000001AA032A5800][000001AA04152900 49] iPhone6Plus, [000001AA032DCE00][000001AA04156A80 49] iPhone6S, [000001AA032A4400][000001AA0415AC00 49] iPhone6SPlus, [000001AA032DED00][000001AA0415ED80 49] iPhone7Plus, [000001AA032A7E00][000001AA04162F00 49] iPhoneSE, [000001AA032DE700][000001AA04167080 49] iPhone8, [000001AA032A4A00][000001AA0416B200 49] iPhone8Plus, [000001AA032DE400][000001AA0416F380 49] iPhoneX, [000001AA032A5900][000001AA04173500 49] iPhoneXS, [000001AA032DC700][000001AA04133640 49] iPhoneXSMax, [000001AA032A6800][000001AA04177780 49] iPhoneXR, [000001AA032DF700][000001AA0417B8C0 49] iPhone11, [000001AA032A7400][000001AA0417FA00 49] iPhone11Pro, [000001AA032DE300][000001AA04187B80 49] iPhone11ProMax, [000001AA032A5A00][000001AA0418BD00 49] iPhoneSE2, [000001AA032DD900][000001AA0418E1C0 49] iPhone12Mini, [000001AA032A4500][000001AA04192340 49] iPhone12, [000001AA032DC400][000001AA041964C0 49] iPhone12Pro, [000001AA032A6900][000001AA0419A640 49] iPhone12ProMax, [000001AA032DE900][000001AA0419E7C0 49] iPadPro105, [000001AA032A5500][000001AA041A2940 49] iPadPro129, [000001AA032DD700][000001AA041A6AC0 49] iPadPro97, [000001AA032A6E00][000001AA041AAC40 49] iPadPro2_129, [000001AA032DD000][000001AA041AEDC0 49] iPad5, [000001AA032A5200][000001AA041B2F40 49] iPad6, [000001AA032F7B00][000001AA041B70C0 49] iPad7, [000001AA032DEF00][000001AA041BB240 49] iPad8, [000001AA032F6000][000001AA041BF3C0 49] iPadPro11, [000001AA032DFC00][000001AA041C3540 49] iPadPro2_11, [000001AA032F7600][000001AA041C76C0 49] iPadPro3_129, [000001AA032DF000][000001AA04183800 49] iPadPro4_129, [000001AA032F7F00][000001AA041CB940 49] AppleTV, [000001AA032DDE00][000001AA041CFA80 49] AppleTV4K, [000001AA032F6300][000001AA041D7C00 49] TVOS, [000001AA032DC600][000001AA041DA0C0 49] Mac, [000001AA032F4100][000001AA041DE240 49] MacClient, [000001AA032DE000][000001AA041E23C0 49] MacNoEditor, [000001AA032F6E00][000001AA041E6540 49] MacServer, [000001AA032A4600][000001AA041EA6C0 49] Linux, [000001AA032F7E00][000001AA041EE840 49] LinuxAArch64, [000001AA032A5000][000001AA041F29C0 49] LinuxNoEditor, [000001AA032F7200][000001AA041F6B40 49] LinuxAArch64NoEditor, [000001AA032A6D00][000001AA041FACC0 49] LinuxClient, [000001AA032F7300][000001AA041FEE40 49] LinuxAArch64Client, [000001AA032A6200][000001AA04202FC0 49] LinuxServer, [000001AA032F4C00][000001AA04207140 49] LinuxAArch64Server, [000001AA032A5700][000001AA0420B2C0 49] Android, [000001AA032F5700][000001AA0420F440 49] Android_Low, [000001AA032A4700][000001AA042135C0 49] Android_Mid, [000001AA032F7700][000001AA04217740 49] Android_High, [000001AA032A5B00][000001AA041D3880 49] Android_Default, [000001AA032F6900][000001AA0421B9C0 49] Android_Adreno4xx, [000001AA032A4D00][000001AA04231B00 49] Android_Adreno5xx_Low, [000001AA032F6400][000001AA04235C40 49] Android_Adreno5xx, [000001AA032A5F00][000001AA0423C100 49] Android_Adreno6xx, [000001AA032F5B00][000001AA04240280 49] Android_Adreno6xx_Vulkan, [000001AA032A6400][000001AA04244400 49] Android_Mali_T6xx, [000001AA032F7A00][000001AA04248580 49] Android_Mali_T7xx, [000001AA032A6100][000001AA0424C700 49] Android_Mali_T8xx, [000001AA032F5D00][000001AA04250880 49] Android_Mali_G71, [000001AA032A4200][000001AA04254A00 49] Android_Mali_G72, [000001AA032F5100][000001AA04258B80 49] Android_Mali_G72_Vulkan, [000001AA032A7000][000001AA0425CD00 49] Android_Mali_G76, [000001AA032F5500][000001AA04260E80 49] Android_Mali_G76_Vulkan, [000001AA032A7D00][000001AA04265000 49] Android_Mali_G77, [000001AA032F5900][000001AA04269180 49] Android_Mali_G77_Vulkan, [000001AA032A6C00][000001AA0426D300 49] Android_Vulkan_SM5, [000001AA032F4300][000001AA04271480 49] Android_PowerVR_G6xxx, [000001AA032A7100][000001AA04275600 49] Android_PowerVR_GT7xxx, [000001AA032F6500][000001AA04279780 49] Android_PowerVR_GE8xxx, [000001AA032A4900][000001AA042398C0 49] Android_PowerVR_GM9xxx, [000001AA032F6C00][000001AA0427DA00 49] Android_PowerVR_GM9xxx_Vulkan, [000001AA032A5600][000001AA04281B40 49] Android_TegraK1, [000001AA032F4F00][000001AA04285C80 49] Android_Unknown_Vulkan, [000001AA032A7500][000001AA0428C140 49] Lumin, [000001AA032F6600][000001AA042902C0 49] Lumin_Desktop, [000001AA032A7F00][000001AA04294440 49] HoloLens, 
+[2022.03.16-09.53.07:131][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.16-09.53.07:131][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.16-09.53.07:131][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.16-09.53.07:131][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.16-09.53.07:131][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.16-09.53.07:149][  0]LogNetVersion: DemonSlayer 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4083057327)
+[2022.03.16-09.53.07:624][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.16-09.53.07:696][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.070983 seconds
+[2022.03.16-09.53.07:702][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.16-09.53.07:702][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.16-09.53.07:702][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.16-09.53.08:145][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.16-09.53.08:150][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.16-09.53.08:189][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.16-09.53.08:455][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.08:455][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.08:459][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.08:463][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.08:474][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.08:513][  0]LogUProjectInfo: Found projects:
+[2022.03.16-09.53.08:631][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.16-09.53.08:656][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.16-09.53.08:656][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.16-09.53.08:857][  0]LogCollectionManager: Loaded 0 collections in 0.002750 seconds
+[2022.03.16-09.53.08:885][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealGame/DemonSlayer/Saved/Collections/' took 0.00s
+[2022.03.16-09.53.08:885][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealGame/DemonSlayer/Content/Developers/ramun/Collections/' took 0.00s
+[2022.03.16-09.53.08:885][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealGame/DemonSlayer/Content/Collections/' took 0.00s
+[2022.03.16-09.53.08:885][  0]LogOcInput: OculusInput pre-init called
+[2022.03.16-09.53.09:134][  0]LogEngine: Initializing Engine...
+[2022.03.16-09.53.09:135][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.16-09.53.09:135][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.16-09.53.09:241][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.16-09.53.09:249][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.16-09.53.09:260][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.16-09.53.09:264][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.16-09.53.09:264][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.53.09:264][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.53.09:264][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.53.09:265][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.53.09:265][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.53.09:277][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.53.09:277][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.53.09:331][  0]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.53.09:334][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.53.09:336][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.53.09:336][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.53.09:337][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.53.09:337][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.53.09:337][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.53.09:338][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.53.09:338][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.53.09:338][  0]LogInit: FAudioDevice initialized.
+[2022.03.16-09.53.09:338][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.16-09.53.09:338][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.16-09.53.09:435][  0]LogDerivedDataCache: Saved boot cache 0.10s 89MB C:/Users/ramun/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.16-09.53.09:436][  0]LogInit: Texture streaming: Enabled
+[2022.03.16-09.53.09:452][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.16-09.53.09:456][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.16-09.53.09:456][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.16-09.53.09:458][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.16-09.53.09:494][  0]LogInit: Transaction tracking system initialized
+[2022.03.16-09.53.09:523][  0]BlueprintLog: New page: エディタの読み込み
+[2022.03.16-09.53.09:609][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.03.16-09.53.09:637][  0]TimingProfiler: Initialize
+[2022.03.16-09.53.09:637][  0]TimingProfiler: OnSessionChanged
+[2022.03.16-09.53.09:637][  0]LoadingProfiler: Initialize
+[2022.03.16-09.53.09:637][  0]LoadingProfiler: OnSessionChanged
+[2022.03.16-09.53.09:637][  0]NetworkingProfiler: Initialize
+[2022.03.16-09.53.09:637][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.16-09.53.09:637][  0]MemoryProfiler: Initialize
+[2022.03.16-09.53.09:637][  0]MemoryProfiler: OnSessionChanged
+[2022.03.16-09.53.09:792][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.16-09.53.09:792][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.16-09.53.09:834][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealGame/DemonSlayer/Content/' took 0.01s
+[2022.03.16-09.53.09:834][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2022.03.16-09.53.10:162][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.16-09.53.10:166][  0]SourceControl: ソースコントロールは無効です
+[2022.03.16-09.53.10:166][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.398
+[2022.03.16-09.53.10:166][  0]Cmd: MAP LOAD FILE="D:/UnrealGame/DemonSlayer/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.16-09.53.10:166][  0]LightingResults: New page: ライティングのビルド
+[2022.03.16-09.53.10:167][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.53.10:167][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.53.10:167][  0]MapCheck: New page: マップをチェック
+[2022.03.16-09.53.10:167][  0]LightingResults: New page: <何も選択されていません>
+[2022.03.16-09.53.10:174][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.03.16-09.53.10:351][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.53.10:352][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.53.10:357][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.16-09.53.10:373][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.16-09.53.10:373][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.16-09.53.10:373][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.12ミリ秒かかりました。
+[2022.03.16-09.53.10:373][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.208
+[2022.03.16-09.53.10:376][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.608
+[2022.03.16-09.53.10:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.53.10:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.53.10:502][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.53.10:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.53.10:510][  0]LogSlate: The tab "/Game/LDTK/LevelDesignToolKit.LevelDesignToolKit_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2022.03.16-09.53.10:530][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3692 classes and 869 folders.
+[2022.03.16-09.53.10:538][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.16-09.53.10:540][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.16-09.53.10:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.16-09.53.10:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.03.16-09.53.10:542][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.16-09.53.10:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.16-09.53.10:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.03.16-09.53.10:543][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.16-09.53.10:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.16-09.53.10:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.03.16-09.53.10:545][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.16-09.53.10:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.16-09.53.10:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.03.16-09.53.10:546][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.16-09.53.10:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.16-09.53.10:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.03.16-09.53.10:549][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.16-09.53.10:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.16-09.53.10:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.03.16-09.53.10:550][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.16-09.53.10:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.16-09.53.10:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.16-09.53.10:552][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.16-09.53.10:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.16-09.53.10:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.16-09.53.10:554][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.16-09.53.10:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.16-09.53.10:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.16-09.53.10:556][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.16-09.53.10:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.16-09.53.10:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.16-09.53.10:557][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.16-09.53.10:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.16-09.53.10:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.16-09.53.10:559][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.16-09.53.10:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.16-09.53.10:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.16-09.53.10:561][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.16-09.53.10:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.16-09.53.10:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.16-09.53.10:562][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.16-09.53.10:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.16-09.53.10:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.16-09.53.10:564][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.16-09.53.10:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.16-09.53.10:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.16-09.53.10:567][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.16-09.53.10:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.16-09.53.10:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.16-09.53.10:567][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.16-09.53.10:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.16-09.53.10:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.16-09.53.10:569][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.16-09.53.10:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.16-09.53.10:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.16-09.53.10:571][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.16-09.53.10:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.16-09.53.10:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.16-09.53.10:573][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.16-09.53.10:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.16-09.53.10:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.03.16-09.53.10:574][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.16-09.53.10:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.16-09.53.10:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.16-09.53.10:576][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.16-09.53.10:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.16-09.53.10:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.16-09.53.10:578][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.16-09.53.10:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.16-09.53.10:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.16-09.53.10:580][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.16-09.53.10:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.16-09.53.10:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.03.16-09.53.10:582][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.16-09.53.10:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.16-09.53.10:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.16-09.53.10:584][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.16-09.53.10:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.16-09.53.10:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.16-09.53.10:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.16-09.53.10:705][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.16-09.53.10:706][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.16-09.53.10:716][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.03.16-09.53.10:807][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.16-09.53.10:808][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2022.03.16-09.53.10:809][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2022.03.16-09.53.10:809][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.16-09.53.10:813][  0]LogSlate: Took 0.001192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.16-09.53.10:897][  0]LogRenderer: Reallocating scene render targets to support 1224x544 Format 10 NumSamples 1 (Frame:1).
+[2022.03.16-09.53.11:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.16-09.53.11:003][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.03.16-09.53.11:003][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.03.16-09.53.11:003][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.03.16-09.53.11:003][  0]LogLoad: (Engine Initialization) Total time: 8.24 seconds
+[2022.03.16-09.53.11:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.16-09.53.11:003][  0]LogInit: First time updating LLM stats...
+[2022.03.16-09.53.11:253][  0]LogAssetRegistry: Asset discovery search completed in 4.4933 seconds
+[2022.03.16-09.53.11:254][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.16-09.53.11:255][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.16-09.53.11:341][  2]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.16-09.53.12:041][ 50]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2022.03.16-09.53.12:041][ 50]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.16-09.54.00:890][304]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set1_BaseColor (AutoDXT、4096X4096)
+[2022.03.16-09.54.00:890][304]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set1_OcclusionRoughnessMetallic (AutoDXT、4096X4096)
+[2022.03.16-09.54.00:890][304]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set1_Normal (BC5、4096X4096)
+[2022.03.16-09.54.00:891][304]LogSkeletalMesh: Building Skeletal Mesh SK_Dagger_1...
+[2022.03.16-09.54.00:893][304]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapon_Pack/Skeletal_Mesh/SK_Dagger_1.SK_Dagger_1
+[2022.03.16-09.54.00:894][304]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_1, compiling. 
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.03.16-09.54.00:981][304]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.03.16-09.54.05:817][588]Cmd: DELETE
+[2022.03.16-09.54.05:817][588]Cmd: ACTOR DELETE
+[2022.03.16-09.54.05:819][588]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.03.16-09.54.05:823][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.16-09.54.05:827][588]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.16-09.54.06:657][663]Cmd: DELETE
+[2022.03.16-09.54.06:657][663]Cmd: ACTOR DELETE
+[2022.03.16-09.54.06:658][663]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.03.16-09.54.06:662][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.03.16-09.54.06:663][663]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.16-09.54.23:267][546]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set2_BaseColor (AutoDXT、4096X4096)
+[2022.03.16-09.54.23:267][546]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set2_OcclusionRoughnessMetallic (AutoDXT、4096X4096)
+[2022.03.16-09.54.23:267][546]LogTexture: Display: テクスチャをビルドしています:T_Weapon_Set2_Normal (BC5、4096X4096)
+[2022.03.16-09.54.23:267][546]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_2, compiling. 
+[2022.03.16-09.54.23:285][546]LogSkeletalMesh: Building Skeletal Mesh SK_GreatAxe...
+[2022.03.16-09.54.23:286][546]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapon_Pack/Skeletal_Mesh/SK_GreatAxe.SK_GreatAxe
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.03.16-09.54.23:289][546]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.03.16-09.54.24:406][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.16-09.54.26:373][704]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_GreatAxe)
+[2022.03.16-09.54.27:415][821]Cmd: DELETE
+[2022.03.16-09.54.27:416][821]Cmd: ACTOR DELETE
+[2022.03.16-09.54.27:417][821]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.03.16-09.54.27:421][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.16-09.54.27:425][821]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.16-09.54.32:825][292]LogContentBrowser: Attempting asset rename: Weapons -> Weapons
+[2022.03.16-09.54.44:278][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP
+[2022.03.16-09.54.44:477][ 19]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.16-09.54.45:537][ 19]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2022.03.16-09.54.45:537][ 19]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.16-09.54.45:595][ 20]LogSlate: Took 0.001220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.16-09.54.57:683][524]LogStaticMesh: スタティックメッシュ SM_Sword をビルド中...
+[2022.03.16-09.54.57:730][524]LogStaticMesh: Built static mesh [0.05s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.SM_Sword
+[2022.03.16-09.55.00:165][639]LogRenderer: Reallocating scene render targets to support 1224x644 Format 10 NumSamples 1 (Frame:1).
+[2022.03.16-09.55.00:569][656]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-09.55.00:653][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.03.16-09.55.00:691][656]LogSlate: Took 0.001669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.16-09.55.00:694][656]LogSlate: Took 0.003281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2022.03.16-09.55.01:380][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.55.01:395][691]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BPB9396D214CC02A5C5896C7851852FF2D.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.55.01:415][691]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.55.01:415][691]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.55.03:166][824]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.55.03:173][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.55.03:174][824]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:55:03)
+[2022.03.16-09.55.03:175][824]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.16-09.55.03:176][824]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.16-09.55.03:176][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.55.03:186][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009934s)
+[2022.03.16-09.55.03:187][824]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.55.03:188][824]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2022.03.16-09.55.03:188][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011477s)
+[2022.03.16-09.55.03:214][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.03.16-09.55.03:216][824]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.55.03:216][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.55.03:216][824]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.55.03:216][824]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.55.03:219][824]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.55.03:219][824]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.55.03:237][824]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.55.03:237][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.55.03:237][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.55.03:237][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.55.03:238][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.55.03:238][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.55.03:238][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.55.03:253][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.55.03:253][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.55.03:253][824]LogInit: FAudioDevice initialized.
+[2022.03.16-09.55.03:253][824]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.55.03:270][824]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.55.03:271][824]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.55.03
+[2022.03.16-09.55.03:272][824]LogWorld: Bringing up level for play took: 0.001150
+[2022.03.16-09.55.03:272][824]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.16-09.55.03:276][824]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.16-09.55.03:277][824]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.55.03:277][824]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.55.03:277][824]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.55.03:279][824]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.55.03:279][824]PIE: サーバーにログインしました
+[2022.03.16-09.55.03:281][824]PIE: PIE合計開始時間 0.109 秒。
+[2022.03.16-09.55.03:662][826]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.002 s
+[2022.03.16-09.55.03:662][826]LogAbilitySystem: Warning: No GameplayCueNotifyPaths were specified in DefaultGame.ini under [/Script/GameplayAbilities.AbilitySystemGlobals]. Falling back to using all of /Game/. This may be slow on large projects. Consider specifying which paths are to be searched.
+[2022.03.16-09.55.11:432][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.55.11:432][721]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.55.11:432][721]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.55.11:432][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.55.11:442][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.55.11:449][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.55.11:469][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-09.55.11:478][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.55.11:479][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.55.11:495][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.55.11:535][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.03.16-09.55.11:558][722]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.16-09.55.48:232][871]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-09.55.48:300][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.16-09.55.48:678][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.55.48:693][886]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BPD770D91B4B735110763B539611F469B0.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.55.48:712][886]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.55.48:712][886]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.55.52:245][107]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.55.52:252][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.55.52:252][107]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:55:52)
+[2022.03.16-09.55.52:280][107]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.55.52:292][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011220s)
+[2022.03.16-09.55.52:293][107]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.55.52:294][107]LogPlayLevel: PIE: World Init took: (0.002142s)
+[2022.03.16-09.55.52:294][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013653s)
+[2022.03.16-09.55.52:320][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.16-09.55.52:322][107]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.55.52:322][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.55.52:322][107]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.55.52:322][107]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.55.52:325][107]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.55.52:325][107]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.55.52:343][107]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.55.52:343][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.55.52:343][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.55.52:343][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.55.52:343][107]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.55.52:344][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.55.52:344][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.55.52:358][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.55.52:358][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.55.52:358][107]LogInit: FAudioDevice initialized.
+[2022.03.16-09.55.52:358][107]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.55.52:365][107]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.55.52:366][107]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.55.52
+[2022.03.16-09.55.52:367][107]LogWorld: Bringing up level for play took: 0.001039
+[2022.03.16-09.55.52:367][107]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.16-09.55.52:369][107]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.55.52:369][107]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.55.52:369][107]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.55.52:371][107]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.55.52:371][107]PIE: サーバーにログインしました
+[2022.03.16-09.55.52:372][107]PIE: PIE合計開始時間 0.121 秒。
+[2022.03.16-09.55.53:781][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.55.53:781][268]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.55.53:781][268]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.55.53:781][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.55.53:787][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.55.53:793][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.55.53:811][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.55.53:812][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.55.53:813][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.55.53:833][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.03.16-09.55.53:856][269]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.16-09.56.13:012][718]LogEditorTransaction: Undo コンポーネントを修正
+[2022.03.16-09.56.20:998][180]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-09.56.21:054][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.16-09.56.21:738][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.56.21:753][210]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BPBA763E6A475CB8207BD0D4B624884C51.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.56.21:776][210]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.56.21:776][210]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.56.34:687][840]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-09.56.34:745][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.03.16-09.56.35:144][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.56.35:158][856]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BPA784263F4A55AC6287CFB3BB5337D041.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.56.35:178][856]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.56.35:178][856]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.56.49:489][756]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-09.56.49:547][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.03.16-09.56.49:918][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.56.49:933][771]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BP42D49E2A4C4471B275199793462694E4.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.56.49:953][771]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.56.49:953][771]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.56.51:744][901]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.56.51:750][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.56.51:750][901]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:56:51)
+[2022.03.16-09.56.51:780][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.56.51:790][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010048s)
+[2022.03.16-09.56.51:791][901]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.56.51:791][901]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2022.03.16-09.56.51:791][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011409s)
+[2022.03.16-09.56.51:816][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.03.16-09.56.51:817][901]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.16-09.56.51:817][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.56.51:817][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.56.51:817][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.56.51:818][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.56.51:818][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.56.51:818][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.56.51:818][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.56.51:818][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.56.51:818][901]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.56.51:818][901]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.56.51:821][901]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.56.51:821][901]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.56.51:838][901]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.56.51:838][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.56.51:838][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.56.51:838][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.56.51:839][901]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.56.51:839][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.56.51:839][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.56.51:853][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.56.51:853][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.56.51:853][901]LogInit: FAudioDevice initialized.
+[2022.03.16-09.56.51:854][901]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.56.51:860][901]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.56.51:862][901]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.56.51
+[2022.03.16-09.56.51:862][901]LogWorld: Bringing up level for play took: 0.001210
+[2022.03.16-09.56.51:863][901]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.16-09.56.51:865][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.56.51:865][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.56.51:865][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.56.51:867][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.56.51:867][901]PIE: サーバーにログインしました
+[2022.03.16-09.56.51:867][901]PIE: PIE合計開始時間 0.118 秒。
+[2022.03.16-09.57.00:431][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.57.00:432][921]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.57.00:432][921]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.57.00:432][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.57.00:437][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.57.00:443][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.57.00:462][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-09.57.00:462][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.57.00:463][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.57.00:479][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.57.00:482][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.16-09.57.00:505][922]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.16-09.57.14:578][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-09.57.14:588][945]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BP177872664325415ABEB8E2987C8D97B8.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-09.57.14:610][945]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-09.57.14:610][945]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-09.58.28:218][565]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.03.16-09.58.28:228][565]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.03.16-09.58.28:421][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.16-09.58.28:422][565]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.03.16-09.58.29:002][566]LogRenderer: Reallocating scene render targets to support 1224x800 Format 10 NumSamples 1 (Frame:1).
+[2022.03.16-09.58.38:151][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2022.03.16-09.58.38:232][ 98]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/SK_Mannequin5DA846DC41AF5A8E7FFB60BF6A4F7417.tmp' to 'D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.03.16-09.58.38:264][ 98]AssetCheck: New page: アセット保存:SK_Mannequin
+[2022.03.16-09.58.38:264][ 98]LogContentValidation: Display: SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin を検証しています
+[2022.03.16-09.58.39:880][223]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.58.39:888][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.58.39:888][223]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:58:39)
+[2022.03.16-09.58.39:921][223]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.58.39:931][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010679s)
+[2022.03.16-09.58.39:933][223]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.58.39:933][223]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2022.03.16-09.58.39:933][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012363s)
+[2022.03.16-09.58.40:008][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.03.16-09.58.40:010][223]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.58.40:010][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.58.40:010][223]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.58.40:010][223]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.58.40:014][223]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.58.40:014][223]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.58.40:030][223]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.58.40:031][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.58.40:031][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.58.40:031][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.58.40:031][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.58.40:031][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.58.40:031][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.58.40:046][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.58.40:046][223]LogInit: FAudioDevice initialized.
+[2022.03.16-09.58.40:046][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.58.40:046][223]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.58.40:054][223]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.58.40:056][223]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.58.40
+[2022.03.16-09.58.40:056][223]LogWorld: Bringing up level for play took: 0.001047
+[2022.03.16-09.58.40:056][223]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.16-09.58.40:058][223]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.58.40:058][223]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.58.40:058][223]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.58.40:060][223]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.58.40:060][223]PIE: サーバーにログインしました
+[2022.03.16-09.58.40:061][223]PIE: PIE合計開始時間 0.174 秒。
+[2022.03.16-09.58.50:031][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.58.50:031][410]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.58.50:031][410]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.58.50:032][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.58.50:042][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.58.50:048][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.58.50:070][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.58.50:076][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.58.50:077][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.58.50:109][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.16-09.58.50:131][411]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.16-09.58.58:594][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2022.03.16-09.58.58:660][995]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/SK_MannequinC0D3B80C4A658CEF92066EB64FB9FA76.tmp' to 'D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.03.16-09.58.58:681][995]AssetCheck: New page: アセット保存:SK_Mannequin
+[2022.03.16-09.58.58:681][995]LogContentValidation: Display: SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin を検証しています
+[2022.03.16-09.58.59:909][ 83]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.58.59:916][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.58.59:916][ 83]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:58:59)
+[2022.03.16-09.58.59:950][ 83]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.58.59:961][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010289s)
+[2022.03.16-09.58.59:962][ 83]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.58.59:962][ 83]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2022.03.16-09.58.59:963][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012116s)
+[2022.03.16-09.58.59:988][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.03.16-09.58.59:991][ 83]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.58.59:991][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.58.59:991][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.58.59:991][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.58.59:994][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.58.59:994][ 83]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.59.00:012][ 83]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.59.00:012][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.59.00:012][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.59.00:012][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.59.00:013][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.59.00:013][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.59.00:013][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.59.00:028][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.59.00:028][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.59.00:028][ 83]LogInit: FAudioDevice initialized.
+[2022.03.16-09.59.00:028][ 83]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.59.00:034][ 83]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.59.00:036][ 83]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.59.00
+[2022.03.16-09.59.00:036][ 83]LogWorld: Bringing up level for play took: 0.001065
+[2022.03.16-09.59.00:036][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.16-09.59.00:038][ 83]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.59.00:038][ 83]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.59.00:038][ 83]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.59.00:040][ 83]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.59.00:040][ 83]PIE: サーバーにログインしました
+[2022.03.16-09.59.00:041][ 83]PIE: PIE合計開始時間 0.126 秒。
+[2022.03.16-09.59.18:411][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.59.18:411][281]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.59.18:411][281]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.59.18:412][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.59.18:423][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.59.18:429][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.59.18:448][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.59.18:448][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.59.18:449][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.59.18:469][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.16-09.59.18:493][282]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.16-09.59.30:785][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2022.03.16-09.59.30:850][ 89]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/SK_Mannequin40AB8AD246BBDB548739A393F554E0A2.tmp' to 'D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.03.16-09.59.30:870][ 89]AssetCheck: New page: アセット保存:SK_Mannequin
+[2022.03.16-09.59.30:870][ 89]LogContentValidation: Display: SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin を検証しています
+[2022.03.16-09.59.32:240][191]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-09.59.32:246][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-09.59.32:246][191]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 3:59:32)
+[2022.03.16-09.59.32:270][191]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.59.32:281][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010488s)
+[2022.03.16-09.59.32:282][191]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-09.59.32:283][191]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2022.03.16-09.59.32:283][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012244s)
+[2022.03.16-09.59.32:308][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.16-09.59.32:311][191]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-09.59.32:311][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-09.59.32:311][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-09.59.32:312][191]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-09.59.32:312][191]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-09.59.32:315][191]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-09.59.32:315][191]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-09.59.32:349][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-09.59.32:349][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-09.59.32:364][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-09.59.32:364][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-09.59.32:364][191]LogInit: FAudioDevice initialized.
+[2022.03.16-09.59.32:364][191]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-09.59.32:376][191]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-09.59.32:377][191]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-18.59.32
+[2022.03.16-09.59.32:377][191]LogWorld: Bringing up level for play took: 0.001041
+[2022.03.16-09.59.32:377][191]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.16-09.59.32:379][191]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.59.32:379][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-09.59.32:379][191]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.59.32:381][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-09.59.32:381][191]PIE: サーバーにログインしました
+[2022.03.16-09.59.32:382][191]PIE: PIE合計開始時間 0.137 秒。
+[2022.03.16-09.59.47:751][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.59.47:751][ 25]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-09.59.47:751][ 25]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-09.59.47:752][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.59.47:757][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-09.59.47:762][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-09.59.47:782][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-09.59.47:782][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.59.47:783][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-09.59.47:804][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.16-09.59.47:826][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.16-10.02.03:402][491]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.03.16-10.02.03:412][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.16-10.02.41:027][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2022.03.16-10.02.41:030][217]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/UE4_Mannequin_Skeleton5B71D3CB4F136FCECA2F58AC2D162B0A.tmp' to 'D:/UnrealGame/DemonSlayer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.16-10.02.41:065][217]AssetCheck: New page: アセット保存:UE4_Mannequin_Skeleton
+[2022.03.16-10.02.41:065][217]LogContentValidation: Display: Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton を検証しています
+[2022.03.16-10.02.41:767][253]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-10.02.41:767][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-10.02.42:735][298]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-10.02.42:735][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-10.02.44:260][410]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-10.02.44:266][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-10.02.44:266][410]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 4:02:44)
+[2022.03.16-10.02.44:291][410]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-10.02.44:299][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008530s)
+[2022.03.16-10.02.44:301][410]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-10.02.44:301][410]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2022.03.16-10.02.44:301][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010410s)
+[2022.03.16-10.02.44:329][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.03.16-10.02.44:337][410]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-10.02.44:337][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-10.02.44:337][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-10.02.44:338][410]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-10.02.44:338][410]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-10.02.44:341][410]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-10.02.44:341][410]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-10.02.44:359][410]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-10.02.44:360][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-10.02.44:360][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-10.02.44:360][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-10.02.44:360][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-10.02.44:360][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-10.02.44:360][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-10.02.44:375][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-10.02.44:375][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-10.02.44:375][410]LogInit: FAudioDevice initialized.
+[2022.03.16-10.02.44:375][410]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-10.02.44:387][410]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-10.02.44:388][410]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-19.02.44
+[2022.03.16-10.02.44:389][410]LogWorld: Bringing up level for play took: 0.001142
+[2022.03.16-10.02.44:389][410]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.16-10.02.44:391][410]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-10.02.44:391][410]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-10.02.44:391][410]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-10.02.44:392][410]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.16-10.02.44:393][410]PIE: サーバーにログインしました
+[2022.03.16-10.02.44:393][410]PIE: PIE合計開始時間 0.129 秒。
+[2022.03.16-10.02.51:011][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-10.02.51:011][196]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-10.02.51:011][196]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-10.02.51:012][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-10.02.51:021][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-10.02.51:027][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-10.02.51:046][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-10.02.51:046][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-10.02.51:047][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-10.02.51:065][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-10.02.51:068][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.03.16-10.02.51:091][197]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.16-10.03.14:454][253]BlueprintLog: New page: MainPlayer_BP をコンパイル
+[2022.03.16-10.03.14:512][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.16-10.03.15:155][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/MainPlayer_BP" FILE="D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset" SILENT=true
+[2022.03.16-10.03.15:170][282]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/MainPlayer_BPD2E35F2445223704D0F1DDB45EE56DB2.tmp' to 'D:/UnrealGame/DemonSlayer/Content/BluePrints/MainPlayer_BP.uasset'
+[2022.03.16-10.03.15:191][282]AssetCheck: New page: アセット保存:MainPlayer_BP
+[2022.03.16-10.03.15:191][282]LogContentValidation: Display: Blueprint /Game/BluePrints/MainPlayer_BP.MainPlayer_BP を検証しています
+[2022.03.16-10.04.12:019][ 65]Candidate modules for hot reload:
+[2022.03.16-10.04.12:019][ 65]  DemonSlayer
+[2022.03.16-10.04.12:019][ 65]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DemonSlayer,5809 DemonSlayerEditor Win64 Development -Project="D:/UnrealGame/DemonSlayer/DemonSlayer.uproject" "D:/UnrealGame/DemonSlayer/DemonSlayer.uproject"  -IgnoreJunk]
+[2022.03.16-10.04.12:022][ 65]Warning: Starting HotReload took  0.0s.
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: New page: コンパイル - 2022/03/17 4:04:35
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Parsing headers for DemonSlayerEditor
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealGame\DemonSlayer\DemonSlayer.uproject" "D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\DemonSlayerEditor\Development\DemonSlayerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ramun\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Reflection code generated for DemonSlayerEditor in 5.206648 seconds
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Building DemonSlayerEditor...
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [1/6] DemonSlayer.init.gen.cpp
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [2/6] MainPlayer.gen.cpp
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [3/6] MainPlayer.cpp
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   D:\UnrealGame\DemonSlayer\Source\DemonSlayer\Private\MainPlayer.cpp(66): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [4/6] UE4Editor-DemonSlayer-5809.lib
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:      Creating library D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-5809.lib and object D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-5809.exp
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [5/6] UE4Editor-DemonSlayer-5809.dll
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:      Creating library D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-5809.suppressed.lib and object D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-5809.suppressed.exp
+[2022.03.16-10.04.35:278][207]CompilerResultsLog:   [6/6] DemonSlayerEditor.target
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Total time in Parallel executor: 16.97 seconds
+[2022.03.16-10.04.35:278][207]CompilerResultsLog: Total execution time: 23.11 seconds
+[2022.03.16-10.04.35:278][207]LogMainFrame: MainFrame: Module compiling took 23.266 seconds
+[2022.03.16-10.04.35:335][207]LogClass: Could not find existing class MainPlayer in package /Script/DemonSlayer for HotReload, assuming new class
+[2022.03.16-10.04.35:335][207]LogClass: Function GetStamina is new.
+[2022.03.16-10.04.35:335][207]LogClass: Function OnBeginOverlap is new.
+[2022.03.16-10.04.35:354][207]LogHotReload: Re-instancing MainPlayer after hot-reload.
+[2022.03.16-10.04.35:361][207]LogProperty: Warning: Serialized Class /Script/Engine.StaticMeshComponent for a property of Class /Script/Engine.SkeletalMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/DemonSlayer.MainPlayer:Weapon
+    Item = StaticMeshComponent /Engine/Transient.MainPlayer_BP_C_5:Weapon
+[2022.03.16-10.04.35:366][207]LogProperty: Warning: Serialized Class /Script/Engine.StaticMeshComponent for a property of Class /Script/Engine.SkeletalMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/DemonSlayer.MainPlayer:Weapon
+    Item = StaticMeshComponent /Engine/Transient.World_5:PersistentLevel.REINST_MainPlayer_BP_C_6.Weapon
+[2022.03.16-10.04.35:368][207]LogProperty: Warning: Serialized Class /Script/Engine.StaticMeshComponent for a property of Class /Script/Engine.SkeletalMeshComponent. Reference will be nullptred.
+    Property = ObjectProperty /Script/DemonSlayer.MainPlayer:Weapon
+    Item = StaticMeshComponent /Engine/Transient.World_6:PersistentLevel.REINST_MainPlayer_BP_C_4.Weapon
+[2022.03.16-10.04.35:408][207]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DemonSlayer' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2022.03.16-10.04.35:414][207]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.16-10.04.35:512][207]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0127 seconds. Added 3695 classes and 874 folders.
+[2022.03.16-10.04.35:512][207]Display: HotReload took 23.5s.
+[2022.03.16-10.04.42:220][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.03.16-10.04.45:042][423]LogSavePackage: Moving 'D:/UnrealGame/DemonSlayer/Saved/ThirdPersonExampleMap_Auto1A17CCC3B47D4C09C71CCCBAD65BE260F.tmp' to 'D:/UnrealGame/DemonSlayer/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.03.16-10.04.45:065][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 2.913
+[2022.03.16-10.04.45:065][423]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.913
+[2022.03.16-10.06.35:864][299]Candidate modules for hot reload:
+[2022.03.16-10.06.35:864][299]  DemonSlayer
+[2022.03.16-10.06.35:864][299]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DemonSlayer,911 DemonSlayerEditor Win64 Development -Project="D:/UnrealGame/DemonSlayer/DemonSlayer.uproject" "D:/UnrealGame/DemonSlayer/DemonSlayer.uproject"  -IgnoreJunk]
+[2022.03.16-10.06.35:866][299]Warning: Starting HotReload took  0.0s.
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: New page: コンパイル - 2022/03/17 4:06:51
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: Building DemonSlayerEditor...
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:   [1/4] MainPlayer.cpp
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:   D:\UnrealGame\DemonSlayer\Source\DemonSlayer\Private\MainPlayer.cpp(67): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:   [2/4] UE4Editor-DemonSlayer-0911.lib
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:      Creating library D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-0911.lib and object D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-0911.exp
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:   [3/4] UE4Editor-DemonSlayer-0911.dll
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:      Creating library D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-0911.suppressed.lib and object D:\UnrealGame\DemonSlayer\Intermediate\Build\Win64\UE4Editor\Development\DemonSlayer\UE4Editor-DemonSlayer-0911.suppressed.exp
+[2022.03.16-10.06.51:998][337]CompilerResultsLog:   [4/4] DemonSlayerEditor.target
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: Total time in Parallel executor: 15.24 seconds
+[2022.03.16-10.06.51:998][337]CompilerResultsLog: Total execution time: 16.02 seconds
+[2022.03.16-10.06.51:998][337]LogMainFrame: MainFrame: Module compiling took 16.142 seconds
+[2022.03.16-10.06.52:017][337]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3695 classes and 874 folders.
+[2022.03.16-10.06.52:017][337]Display: HotReload took 16.2s.
+[2022.03.16-10.07.32:275][648]LogTemp: Repeating last play command: 選択ビューポート
+[2022.03.16-10.07.32:282][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-10.07.32:282][648]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/03/17 4:07:32)
+[2022.03.16-10.07.32:282][648]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.16-10.07.32:295][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012850s)
+[2022.03.16-10.07.32:296][648]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.16-10.07.32:296][648]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2022.03.16-10.07.32:296][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014448s)
+[2022.03.16-10.07.32:396][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2022.03.16-10.07.32:397][648]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.16-10.07.32:397][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.16-10.07.32:397][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-10.07.32:398][648]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.16-10.07.32:398][648]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-10.07.32:401][648]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-10.07.32:401][648]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-10.07.32:419][648]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.03.16-10.07.32:419][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-10.07.32:419][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-10.07.32:419][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-10.07.32:420][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-10.07.32:420][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-10.07.32:420][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-10.07.32:434][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-10.07.32:434][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-10.07.32:434][648]LogInit: FAudioDevice initialized.
+[2022.03.16-10.07.32:434][648]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2022.03.16-10.07.32:443][648]LogLoad: Game class is 'DemonSlayer_GameMode_BP_C'
+[2022.03.16-10.07.32:445][648]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.16-19.07.32
+[2022.03.16-10.07.32:445][648]LogWorld: Bringing up level for play took: 0.001058
+[2022.03.16-10.07.32:445][648]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.16-10.07.32:447][648]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-10.07.32:447][648]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.16-10.07.32:447][648]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
